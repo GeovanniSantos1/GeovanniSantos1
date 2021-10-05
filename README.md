@@ -31,7 +31,6 @@
   <a href = "mailto:geovanni.oliveira@ivoryit.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geovanni-santos-de-oliveira-986243140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GeovanniSantos1/GeovanniSantos1/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GeovanniSantos1/GeovanniSantos1/blob/output/github-contribution-grid-snake.svg)
     
- https://github.com/GeovanniSantos1/GeovanniSantos1/blob/main/.github/workflows/main.yml
 </div>
