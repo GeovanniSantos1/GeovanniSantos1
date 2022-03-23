@@ -1,4 +1,4 @@
-###  Olá! Eu sou o Geovanni Santos 👋
+###  Olá! Eu sou 🤓 Geovanni Santos👋 👨‍💻: 
 
 
 - 🔭 Atualmente trabalho como software developer 
