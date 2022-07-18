@@ -20,6 +20,8 @@
   <img align="center" alt="Geo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Geo-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">
   <img align="center" alt="Geo-banco" height="30" width="40" src="http://code.benco.io/icon-collection/azure-icons/Azure-SQL-VM.svg">
+  <img align="center" alt="Geo-azure" height="30" width="40" src="https://swimburger.net/media/ppnn3pcl/azure.png">
+    
     
 
 
