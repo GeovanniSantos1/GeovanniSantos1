@@ -21,9 +21,9 @@ def Geovanni():
          "LGPDF" : "LGPDF Fundaments - CertiProf"
          "Python" : "Automatização com Python DevAprender"
          "SQL Impressionador" : "SQL Impressionador HASHTAGTREINAMENTOS"
-         "ASP.NET Core Enterprise Applications" : "desenvolvedor.io"
-         "ASP.NET Core MVC 5 Expert" : "desenvolvedor.io"
-         "Formação Arquiteto de Software" : "desenvolvedor.io"
+         "ASPNET Core Enterprise Applications" : "desenvolvedorIo"
+         "ASPNET Core MVC 5 Expert" : "desenvolvedorIo"
+         "Formacao Arquiteto de Software" : "desenvolvedorIo"
          
       }
    }
