@@ -5,6 +5,25 @@
 - 🌱 Estudando Python e .Net
 - ⚡ Sejá Bem Vindo!!!
 
+```python
+def Geovanni():
+   code = ["C#", ".NET", "HTML","CSS","Python", "SQL"]
+   tools = ["Azure","Grafana",]
+   providers = {"Azure" : {
+      "IaaS",
+      "PaaS",
+      "Saas"
+   }}
+   certificates = {
+      "Microsoft" : {
+         "AZ-900" : "Azure Fundamentals"
+      }
+   }
+   challenge = "Learn .NET with focus in Web Develop" +
+   "Be approved in exam AZ-204 |  Azure Develop Associate"
+
+```
+
 
 <div align="center">
   <a href="https://github.com/GeovanniSantos1">
