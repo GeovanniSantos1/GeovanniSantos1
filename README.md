@@ -16,14 +16,14 @@ def Geovanni():
    }}
    certificates = {
       "Microsoft" : {
-         "AZ-900" : "Azure Fundamentals"]
-         "AZ-204" : "Developing Solutions for Microsoft Azure Ka Solution"
-         "LGPDF" : "LGPDF Fundaments - CertiProf"
-         "Python" : "Automatização com Python DevAprender"
-         "SQL Impressionador" : "SQL Impressionador HASHTAGTREINAMENTOS"
-         "ASPNET Core Enterprise Applications" : "desenvolvedorIo"
-         "ASPNET Core MVC 5 Expert" : "desenvolvedorIo"
-         "Formacao Arquiteto de Software" : "desenvolvedorIo"
+         "AZ-900" : "Azure Fundamentals",
+         "AZ-204" : "Developing Solutions for Microsoft Azure Ka Solution",
+         "LGPDF" : "LGPDF Fundaments CertiProf",
+         "Python" : "Automatizacao com Python DevAprender",
+         "SQL Impressionador" : "SQL Impressionador HASHTAGTREINAMENTOS",
+         "ASPNET Core Enterprise Applications" :"desenvolvedorIo",
+         "ASPNET Core MVC 5 Expert" :"desenvolvedorIo",
+         "Formacao Arquiteto de Software" :"desenvolvedorIo"]
          
       }
    }
