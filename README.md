@@ -16,7 +16,15 @@ def Geovanni():
    }}
    certificates = {
       "Microsoft" : {
-         "AZ-900" : "Azure Fundamentals"
+         "AZ-900" : "Azure Fundamentals"]
+         "AZ-204" : "Developing Solutions for Microsoft Azure Ka Solution"
+         "LGPDF" : "LGPDF Fundaments - CertiProf"
+         "Python" : "Automatização com Python DevAprender"
+         "SQL Impressionador" : "SQL Impressionador HASHTAGTREINAMENTOS"
+         "ASP.NET Core Enterprise Applications" : "desenvolvedor.io"
+         "ASP.NET Core MVC 5 Expert" : "desenvolvedor.io"
+         "Formação Arquiteto de Software" : "desenvolvedor.io"
+         
       }
    }
    challenge = "Learn .NET with focus in Web Develop" +
@@ -52,6 +60,8 @@ def Geovanni():
  <a href="https://discord.gg/841309442854879242" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:geovanni.oliveira@ivoryit.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geovanni-santos-de-oliveira-986243140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     
+     
  
 ![Snake animation](https://github.com/GeovanniSantos1/GeovanniSantos1/blob/output/github-contribution-grid-snake.svg)
     
