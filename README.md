@@ -1,6 +1,6 @@
 ###  Olá! Eu sou 🤓 Geovanni Santos👋 👨‍💻: 
 
-
+- ⚡ <a href="https://euphonious-nougat-0bdbcd.netlify.app/"  target="_blank"><img src="https://img.shields.io/badge/portfolio-7289DA?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a> 
 - 🔭 Atualmente trabalho como software developer 
 - 🌱 Estudando Python e .Net
 - ⚡ Sejá Bem Vindo!!!
