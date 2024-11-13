@@ -34,6 +34,8 @@ def Geovanni():
    }}
    certificates = {
       "Microsoft" : {
+         "AI-102" : "Azure IA Enginner",
+         "AI-900" : "Azure IA Fundamentals",
          "AZ-900" : "Azure Fundamentals",
          "AZ-204" : "Developing Solutions for Microsoft Azure Ka Solution",
          "LGPDF" : "LGPDF Fundaments CertiProf",
