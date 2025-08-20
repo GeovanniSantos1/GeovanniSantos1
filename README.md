@@ -34,21 +34,19 @@ def Geovanni():
    }}
    certificates = {
       "Microsoft" : {
+         "AZ-204" : "Developing Solutions ",
          "AI-102" : "Azure IA Enginner",
          "AI-900" : "Azure IA Fundamentals",
          "AZ-900" : "Azure Fundamentals",
-         "AZ-204" : "Developing Solutions for Microsoft Azure Ka Solution",
+         "SC-900" : "Security Fundamentals",
+         "AZ-104" : "Adm Solutions for KaSolutions",
          "LGPDF" : "LGPDF Fundaments CertiProf",
-         "Python" : "Automatizacao com Python DevAprender",
-         "SQL Impressionador" : "SQL Impressionador HASHTAGTREINAMENTOS",
-         "ASPNET Core Enterprise Applications" :"desenvolvedorIo",
-         "ASPNET Core MVC 5 Expert" :"desenvolvedorIo",
-         "Formacao Arquiteto de Software" :"desenvolvedorIo"]
+         "Formacao Arquiteto de Software"]
          
       }
    }
    challenge = "Learn .NET with focus in Web Develop" +
-   "Be approved in exam AZ-204 |  Azure Develop Associate"
+   "Be approved in exam AZ-305 |  Microsoft Azure Architect Design"
 
 ```
 
